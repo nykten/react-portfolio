@@ -16,6 +16,7 @@
   flex-direction: column;
   align-items: flex-start;
   color: var(--color-text);
+  z-index: 1;
 }
 
 .title {
